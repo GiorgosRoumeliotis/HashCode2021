@@ -1,3 +1,6 @@
+# THIS SOLUTION IS MADE BY GEORGIOS ROUMELIOTIS AND MARILENA PAIRI MONOKROUSOU
+#                               FEBRUARY 25th 2021
+
 from colorama import Fore
 
 
